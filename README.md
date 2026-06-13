@@ -183,13 +183,14 @@ This project is open-source and available under the MIT License.
 ## Support
 
 For support:
-- Check Daksh's [LinkedIn](https://www.linkedin.com/in/daksh-deep-791a1a298/) 
-- Submit issues on [GitHub](https://github.com/daksh-deep/Law-Suite)
+- Check Yashvi's [LinkedIn](https://www.linkedin.com/in/yashviarya/) 
+- Submit issues on [GitHub](https://github.com/YashviArya/Lawsuite)
 
 ## Authors
 For any inquiries or support, please contact:
+- Yashvi Arya: [yashvi.arya7504@gmail.com](mailto:yashvi.arya7504@gmail.com)
 - Daksh Deep: [dakshsaxena04@gmail.com](mailto:dakshsaxena04@gmail.com)
-- Yashvi Arya
+
 
 ## Acknowledgments
 
